@@ -60,6 +60,18 @@ a:hover {
 	border-color:#f2f2f2;
 	color:#272727;	
 }
+
+.notification {
+	text-align: center;
+    border-color: antiquewhite;
+    border-width: 10px;
+    border-style:groove;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #73605B;
+}
 	
 /*===========================
   Menu and Navigation
@@ -304,7 +316,7 @@ a:hover {
 
 .about {
 	padding:80px 0 80px 0;
-	background:#2d6f62;
+	background:#272727;
 }
 
 .about .text-center h2 {
@@ -324,7 +336,7 @@ a:hover {
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 3px;
-  color: #272727;
+  background: #333237;
   border: 2px solid #272727;
   width: 180px;
   height: 60px;
@@ -1161,3 +1173,47 @@ ul.social-network li a {
 	font-size:12px;
 	text-shadow:none;
 } 
+
+.menu-graphic{
+    display: inline;
+    width: 20%;
+}
+
+.portrait {
+	border-radius: 65px;
+    border-bottom-color: floralwhite
+}
+
+.col-md-3{
+    text-align: center;
+    float: center;
+}
+
+.lista{
+    width: 75%;
+    text-align: center;
+    margin-left: 15%;
+    padding-bottom: 5%;
+    font-size: 24px
+        
+    
+    
+}
+
+.grid-item {
+	text-align: center;
+    width: 48%;
+    display: inline-block;
+}
+.grid-itema {
+	text-align: center;
+    width: auto;
+    display: inline-block;
+}
+.textpadding{
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+.centera{
+    display: block;
+}
