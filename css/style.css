@@ -321,8 +321,8 @@ a:hover {
 
 .about .text-center h2 {
 	text-transform:uppercase;
-	font-weight:550;
-	font-size:24px;
+	font-weight:650;
+	font-size:34px;
 }
 
 .about .text-center p {
@@ -1216,4 +1216,14 @@ ul.social-network li a {
 }
 .centera{
     display: block;
+}
+
+.aboutusa {
+	padding-top: 5%;
+    line-height: 27px;
+    font-size: 26px;
+    width: 79%;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
 }
